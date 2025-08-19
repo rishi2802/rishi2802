@@ -86,7 +86,8 @@
 ---
 
 🐍 **Watch my commits get eaten by a snake:**  
-![snake gif](https://github.com/rishi2802/rishi2802/blob/output/github-contribution-grid-snake.svg)  
+
+![snake gif](https://raw.githubusercontent.com/rishi2802/rishi2802/output/snake.svg)
 
 ---
 
