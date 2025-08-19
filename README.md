@@ -1,5 +1,5 @@
 # 🌟 Heyyy I’m Rishitha!  
-
+![Profile views](https://komarev.com/ghpvc/?username=rishi2802&label=Profile%20views&color=0e75b6&style=flat)
 > "Writes code, breaks it, fixes it, and then pretends it worked all along."  
 
 ---
