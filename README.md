@@ -50,8 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <!-- RESTful API (fun custom badge) -->
-  <img src="https://img.shields.io/badge/RESTful%20API-%2300C7B7.svg?style=for-the-badge&logo=api&logoColor=white"/>
   <!-- Debugging life choices (quirky badge) -->
   <img src="https://img.shields.io/badge/Debugging%20Life%20Choices-%23FF69B4.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -64,6 +62,11 @@
 ![Rishitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishi2802&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi2802&layout=compact&theme=radical)  
+
+---
+🎖️ **Few Stickers I have Earned**  
+
+[![@rishi2802's Holopin board](https://holopin.me/rishi2802)](https://holopin.io/@rishi2802)
 
 ---
 
