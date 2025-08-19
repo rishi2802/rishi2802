@@ -1,17 +1,93 @@
+# 🌟 Hey, I’m Rishitha!  
 
+> "Writes code, breaks it, fixes it, and then pretends it worked all along."  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi2802&label=Profile%20views&color=0e75b6&style=flat" alt="rishi2802" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishi2802" alt="rishi2802" /></a> </p>
+👩‍💻 **Currently building:**  
+- APIs that talk more than I do.  
+- Small projects that accidentally turn into big ones.  
+- Debugging sessions that could be Netflix series.  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+⚡ **Superpowers include:**
+- Summoning bugs out of thin air 🐛  
+- Talking to my code like it’s alive 🤖  
+- Forgetting `;` in C++ (and then blaming the compiler).  
+
+---
+
+🎯 **Fun facts about me:**  
+- My commits are 40% actual code and 60% “fix typo.”  
+- Once tried to center a div — still recovering.  
+- If it compiles on the first try, I panic.  
+
+---
+
+💡 **Languages & Tools I juggle:**  
+
 <p align="left">
-<a href="https://linkedin.com/in/rishitha-yerragogu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishitha-yerragogu" height="30" width="40" /></a>
-<a href="https://hashnode.com/@decodewithrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@decodewithrish" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/2021cs0744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2021cs0744" height="30" width="40" /></a>
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <!-- Firebase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <!-- GitHub Actions -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <!-- RESTful API (fun custom badge) -->
+  <img src="https://img.shields.io/badge/RESTful%20API-%2300C7B7.svg?style=for-the-badge&logo=api&logoColor=white"/>
+  <!-- Debugging life choices (quirky badge) -->
+  <img src="https://img.shields.io/badge/Debugging%20Life%20Choices-%23FF69B4.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishi2802&" alt="rishi2802" /></p>
+---
+
+📊 **GitHub Stats (because why not):**  
+
+![Rishitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishi2802&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi2802&layout=compact&theme=radical)  
+
+---
+
+📫 **Reach me (if you dare):**  
+- Send a carrier pigeon 🕊️  
+- Or, you know, just DM me on LinkedIn.
+
+---
+
+📫 **Find me around the web:**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerragogu-rishitha-5519a724a/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-%2312100E.svg?style=for-the-badge&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@decodewithrish)
+
+---
+
+### 🌈 Random Quote of the Day  
+*"Git push, but make it fashion."*  
+
+---
+
+🐍 **Watch my commits get eaten by a snake:**  
+![snake gif](https://github.com/rishi2802/rishi2802/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+🔥 **P.S.** If you’ve read this far, you owe me a ⭐ on my repo.  
