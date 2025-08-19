@@ -1,4 +1,4 @@
-# 🌟 Hey, I’m Rishitha!  
+# 🌟 Heyyy I’m Rishitha!  
 
 > "Writes code, breaks it, fixes it, and then pretends it worked all along."  
 
